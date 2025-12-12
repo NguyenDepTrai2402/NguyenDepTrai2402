@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Nguyen</h1>
+<h1 align="center">Hi there 👋, I'm Nguyễn</h1>
 <h3 align="center">A Passionate Developer & Music Producer from Vietnam 🇻🇳</h3>
 
 <p align="center">
@@ -20,10 +20,10 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THAY_USER_CUA_M_VAO_DAY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THAY_USER_CUA_M_VAO_DAY&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenDepTrai2402&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDepTrai2402&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THAY_USER_CUA_M_VAO_DAY&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDepTrai2402&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak" />
 </p>
